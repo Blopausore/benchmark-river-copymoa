@@ -1,0 +1,6 @@
+capymoa
+river
+psutil
+pandas
+matplotlib
+numpy
