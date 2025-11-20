@@ -1,0 +1,43 @@
+\begin{tabularx}{\linewidth}{l l c c c c c}
+\hline
+model & dataset & MAE & RMSE & R2 & Memory (Mb) & Time (s) \\
+\hline
+Adaptive Model Rules & ChickWeights & 24.194 & 37.217 & 0.725 & 0.047 & 5.971 \\
+Adaptive Model Rules & TrumpApproval & 1.398 & 2.433 & -1.024 & 0.114 & 13.385 \\
+Adaptive Random Forest & ChickWeights & 26.323 & 41.228 & 0.663 & 1.121 & 44.735 \\
+Adaptive Random Forest & TrumpApproval & 0.772 & 2.109 & -0.521 & 1.438 & 57.998 \\
+Aggregated Mondrian Forest & ChickWeights & 25.674 & 41.712 & 0.655 & 8.214 & 86.262 \\
+Aggregated Mondrian Forest & TrumpApproval & 0.269 & 0.349 & 0.958 & 16.932 & 139.795 \\
+Bagging & ChickWeights & 23.140 & 36.590 & 0.734 & 0.662 & 33.906 \\
+Bagging & TrumpApproval & 0.900 & 2.235 & -0.707 & 1.228 & 52.992 \\
+EWA & ChickWeights & 121.818 & 141.004 & -2.943 & 3.046 & 44.934 \\
+EWA & TrumpApproval & 40.755 & 40.790 & -567.663 & 5.258 & 106.919 \\
+Hoeffding Adaptive Tree & ChickWeights & 23.019 & 36.895 & 0.730 & 0.039 & 10.300 \\
+Hoeffding Adaptive Tree & TrumpApproval & 0.921 & 2.239 & -0.714 & 0.138 & 11.764 \\
+Hoeffding Tree & ChickWeights & 23.162 & 36.734 & 0.732 & 0.044 & 5.227 \\
+Hoeffding Tree & TrumpApproval & 0.956 & 2.250 & -0.730 & 0.149 & 8.138 \\
+Linear Regression & ChickWeights & 23.759 & 37.038 & 0.728 & 0.004 & 2.180 \\
+Linear Regression & TrumpApproval & 1.315 & 3.912 & -4.230 & 0.005 & 2.378 \\
+Linear Regression l1 & ChickWeights & 23.758 & 37.078 & 0.727 & 0.004 & 1.964 \\
+Linear Regression l1 & TrumpApproval & 1.154 & 3.829 & -4.010 & 0.005 & 6.076 \\
+Linear Regression l2 & ChickWeights & 25.274 & 38.589 & 0.705 & 0.004 & 2.624 \\
+Linear Regression l2 & TrumpApproval & 1.872 & 4.131 & -4.831 & 0.005 & 2.968 \\
+Passive-Aggressive 1 & ChickWeights & 24.342 & 37.596 & 0.720 & 0.003 & 2.101 \\
+Passive-Aggressive 1 & TrumpApproval & 4.984 & 6.977 & -15.635 & 0.004 & 3.177 \\
+Passive-Aggressive 2 & ChickWeights & 100.624 & 143.066 & -3.059 & 0.003 & 3.102 \\
+Passive-Aggressive 2 & TrumpApproval & 31.093 & 34.626 & -408.765 & 0.004 & 7.638 \\
+River MLP & ChickWeights & 51.408 & 80.920 & -0.299 & 0.012 & 22.993 \\
+River MLP & TrumpApproval & 1.581 & 5.034 & -7.661 & 0.013 & 29.241 \\
+Stochastic Gradient Tree & ChickWeights & 68.759 & 80.358 & -0.281 & 1.121 & 16.382 \\
+Stochastic Gradient Tree & TrumpApproval & 9.430 & 17.938 & -108.972 & 3.082 & 37.906 \\
+Streaming Random Patches & ChickWeights & 24.536 & 39.560 & 0.690 & 0.448 & 60.239 \\
+Streaming Random Patches & TrumpApproval & 0.663 & 2.118 & -0.534 & 1.036 & 105.187 \\
+Mean predictor & ChickWeights & 50.251 & 71.114 & -0.003 & 0.000 & 0.800 \\
+Mean predictor & TrumpApproval & 1.568 & 2.203 & -0.658 & 0.000 & 2.787 \\
+k-NN & ChickWeights & 24.577 & 38.978 & 0.699 & 2.870 & 28.081 \\
+k-NN & TrumpApproval & 0.642 & 1.595 & 0.131 & 5.025 & 88.270 \\
+\hline
+\end{tabularx}
+
+With EWA : Exponentially Weighted Average
+

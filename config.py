@@ -21,6 +21,17 @@ from river import (
 )
 
 from model_adapters.capymoa import CapyMoa2RiverClassifier, CapyMoa2RiverRegressor
+
+import importlib.util
+
+
+VW_AVAILABLE = importlib.util.find_spec("vowpalwabbit") is not None
+if VW_AVAILABLE:
+    from model_adapters.vw import VW2RiverClassifier
+else:
+    VW2RiverClassifier = None
+
+
 from capymoa.classifier import (
     HoeffdingTree,
     HoeffdingAdaptiveTree,
@@ -29,6 +40,7 @@ from capymoa.classifier import (
     OnlineBagging,
     LeveragingBagging,
 )
+
 
     
 from capymoa.regressor import (
@@ -80,18 +92,24 @@ MODELS = {
                 classes=[False, True],
             )
         ),
-        "Vowpal Wabbit logistic regression": VW2RiverClassifier(
-            sgd=True,
-            learning_rate=LEARNING_RATE,
-            loss_function="logistic",
-            link="logistic",
-            adaptive=False,
-            normalized=False,
-            invariant=False,
-            l2=0.0,
-            l1=0.0,
-            power_t=0,
-            quiet=True,
+              **(
+            {
+                "Vowpal Wabbit logistic regression": VW2RiverClassifier(
+                    sgd=True,
+                    learning_rate=LEARNING_RATE,
+                    loss_function="logistic",
+                    link="logistic",
+                    adaptive=False,
+                    normalized=False,
+                    invariant=False,
+                    l2=0.0,
+                    l1=0.0,
+                    power_t=0,
+                    quiet=True,
+                )
+            }
+            if VW_AVAILABLE
+            else {}
         ),
     },
     "Multiclass classification": {
@@ -184,8 +202,10 @@ MODELS_CAPY = {
         "CapyMoa Hoeffding Tree": CapyMoa2RiverClassifier(HoeffdingTree),
         "CapyMoa Hoeffding Adaptive Tree": CapyMoa2RiverClassifier(HoeffdingAdaptiveTree),
         "CapyMoa Adaptive Random Forest": CapyMoa2RiverClassifier(AdaptiveRandomForestClassifier),
-        "CapyMoa Online Bagging": CapyMoa2RiverClassifier(OnlineBagging(HoeffdingTree())),
-        "CapyMoa Leveraging Bagging": CapyMoa2RiverClassifier(LeveragingBagging(HoeffdingTree())),
+                "CapyMoa Online Bagging": CapyMoa2RiverClassifier(lambda: OnlineBagging(HoeffdingTree())),
+        "CapyMoa Leveraging Bagging": CapyMoa2RiverClassifier(
+            lambda: LeveragingBagging(HoeffdingTree())
+        ),
     },
     "Regression": {
         "CapyMoa Adaptive Random Forest Regressor": CapyMoa2RiverRegressor(AdaptiveRandomForestRegressor),
@@ -204,11 +224,17 @@ MODELS_CAPY = {
         "CapyMoa Fading Target Mean": CapyMoa2RiverRegressor(FadingTargetMean),
     },
     "Multiclass classification": {
-        "CapyMoa Hoeffding Tree": CapyMoa2RiverClassifier(HoeffdingTree),
-        "CapyMoa Adaptive Hoeffding Tree": CapyMoa2RiverClassifier(HoeffdingAdaptiveTree),
-        "CapyMoa Adaptive Random Forest": CapyMoa2RiverClassifier(AdaptiveRandomForestClassifier(seed=42)),
+                "CapyMoa Online Bagging": CapyMoa2RiverClassifier(
+            lambda: OnlineBagging(HoeffdingTree())
+        ),
+        "CapyMoa Leveraging Bagging": CapyMoa2RiverClassifier(
+            lambda: LeveragingBagging(HoeffdingTree())
+        ),
+        "CapyMoa Adaptive Random Forest": CapyMoa2RiverClassifier(AdaptiveRandomForestClassifier),
         "CapyMoa Naive Bayes": CapyMoa2RiverClassifier(CMNaiveBayes),
-        "CapyMoa Online Bagging": CapyMoa2RiverClassifier(OnlineBagging(HoeffdingTree())),
-        "CapyMoa Leveraging Bagging": CapyMoa2RiverClassifier(LeveragingBagging(HoeffdingTree())),
+                "CapyMoa Online Bagging": CapyMoa2RiverClassifier(lambda: OnlineBagging(HoeffdingTree())),
+        "CapyMoa Leveraging Bagging": CapyMoa2RiverClassifier(
+            lambda: LeveragingBagging(HoeffdingTree())
+        ),
     }
 }

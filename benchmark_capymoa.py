@@ -6,6 +6,7 @@ import pandas as pd
 import itertools
 import logging
 
+
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
 
@@ -31,27 +32,39 @@ def run_capy_model(model_name, model, dataset, track_name, n_checkpoints, out_di
 
     # On utilise le track River directement
     # → pas de multiprocessing ici, tout en séquentiel, sûr à 100%
-    for state in track_name.run(model, dataset, n_checkpoints=n_checkpoints):
-        cumulative_time += state["Time"].total_seconds()
+    try:
+        for state in track_name.run(model, dataset, n_checkpoints=n_checkpoints):
+            cumulative_time += state["Time"].total_seconds()
 
-        # Safe dict
-        res = {
-            "step": state["Step"],
-            "track": track_name.name,
-            "model": model_name,
-            "dataset": dataset.__class__.__name__,
-            "Memory in Mb": state["Memory"] / 1024**2,
-            "Time in s": cumulative_time,
-        }
+            # Safe dict
+            res = {
+                "step": state["Step"],
+                "track": track_name.name,
+                "model": model_name,
+                "dataset": dataset.__class__.__name__,
+                "Memory in Mb": state["Memory"] / 1024**2,
+                "Time in s": cumulative_time,
+                "using_fallback": getattr(model, "using_fallback", False),
+            }
 
-        # Extraire uniquement les métriques
-        for k, v in state.items():
-            if isinstance(v, metrics.base.Metric):
-                res[k] = float(v.get())
+            # Extraire uniquement les métriques
+            for k, v in state.items():
+                if isinstance(v, metrics.base.Metric):
+                    res[k] = float(v.get())
 
-        # Write line
+            # Write line
+            with open(out_path, "a") as f:
+                f.write(json.dumps(res) + "\n")
+    except Exception as exc:
+        logger.error("Echec sur %s/%s: %s", dataset.__class__.__name__, model_name, exc)
+            # Write line
         with open(out_path, "a") as f:
-            f.write(json.dumps(res) + "\n")
+                f.write(json.dumps({
+                "track": track_name.name,
+                "model": model_name,
+                "dataset": dataset.__class__.__name__,
+                "error": str(exc),
+            }) + "\n")
 
     return out_path
 
@@ -72,8 +85,9 @@ def run_track_capy(track_name, track, models, n_checkpoints, out_dir):
         print(f"\n⚡ Running {model_name} on {dataset.__class__.__name__}")
 
         # Cloner le modèle CapyMoa wrapper, sinon l'état reste entre datasets
-        model_instance = model.__class__(model.model.__class__())
-
+        model_instance = model.clone() if hasattr(model, "clone") else model.__class__()
+        
+        
         path = run_capy_model(
             model_name=model_name,
             model=model_instance,

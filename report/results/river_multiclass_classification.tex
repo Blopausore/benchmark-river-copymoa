@@ -1,0 +1,41 @@
+\begin{tabularx}{\linewidth}{l l c c c c c}
+\hline
+model & dataset & Memory (Mb) & Time (s) & Accuracy & MicroF1 & MacroF1 \\
+\hline
+ADWIN Bagging & ImageSegments & 4.11431 & 510.958 & 0.771763 & 0.771763 & 0.756927 \\
+ADWIN Bagging & Keystroke & 45.3838 & 7293.00 & 0.823129 & 0.823129 & 0.824174 \\
+AdaBoost & ImageSegments & 4.09839 & 507.469 & 0.804677 & 0.804677 & 0.797770 \\
+AdaBoost & Keystroke & 196.336 & 9649.09 & 0.832198 & 0.832198 & 0.833978 \\
+AR Forest & ImageSegments & 3.11780 & 187.997 & 0.783456 & 0.783456 & 0.778074 \\
+AR Forest & Keystroke & 0.592256 & 743.121 & 0.979607 & 0.979607 & 0.979607 \\
+AG Forest & ImageSegments & 17.0502 & 568.854 & \textbf{0.901689} & \textbf{0.901689} & \textbf{0.900381} \\
+AG Forest & Keystroke & 338.139 & 7275.98 & 0.881073 & 0.881073 & 0.879928 \\
+Bagging & ImageSegments & 4.15507 & 616.265 & 0.776960 & 0.776960 & 0.764564 \\
+Bagging & Keystroke & 50.3446 & 10986.2 & 0.669739 & 0.669739 & 0.669981 \\
+HA Tree & ImageSegments & 0.423800 & 61.0754 & 0.774794 & 0.774794 & 0.763617 \\
+HA Tree & Keystroke & 0.724505 & 1389.69 & 0.722290 & 0.722290 & 0.720849 \\
+Hoeffding Tree & ImageSegments & 0.417158 & 40.4303 & 0.776094 & 0.776094 & 0.763137 \\
+Hoeffding Tree & Keystroke & 5.09445 & 1113.73 & 0.648218 & 0.648218 & 0.647249 \\
+Leveraging Bagging & ImageSegments & 4.10050 & 1214.80 & 0.778259 & 0.778259 & 0.766016 \\
+Leveraging Bagging & Keystroke & 8.15640 & 6162.08 & 0.952694 & 0.952694 & 0.952879 \\
+Naive Bayes & ImageSegments & 0.390004 & 37.0771 & 0.731919 & 0.731919 & 0.730419 \\
+Naive Bayes & Keystroke & 4.86901 & 608.637 & 0.652532 & 0.652532 & 0.651577 \\
+Stacking & ImageSegments & 8.36880 & 771.316 & 0.850152 & 0.850152 & 0.847608 \\
+Stacking & Keystroke & 17.3105 & 6847.49 & \textbf{0.982205} & \textbf{0.982205} & \textbf{0.982205} \\
+SRP & ImageSegments & 7.61923 & 1182.53 & 0.759203 & 0.759203 & 0.753394 \\
+SRP & Keystroke & 27.7054 & 5203.87 & 0.966175 & 0.966175 & 0.966193 \\
+Voting & ImageSegments & 6.07661 & 480.207 & 0.807276 & 0.807276 & 0.799632 \\
+Voting & Keystroke & 16.4103 & 5750.52 & 0.778028 & 0.778028 & 0.783038 \\
+{[baseline] Last Class} & ImageSegments & 0.00136948 & 4.50779 & 0.148116 & 0.148116 & 0.148116 \\
+{[baseline] Last Class} & Keystroke & 0.00504208 & 46.2865 & 0.997549 & 0.997549 & 0.997549 \\
+k-Nearest Neighbors & ImageSegments & 5.25567 & 377.365 & 0.879602 & 0.879602 & 0.878164 \\
+k-Nearest Neighbors & Keystroke & 6.30135 & 3171.65 & 0.911221 & 0.911221 & 0.911144 \\
+\hline
+\end{tabularx}
+
+\begin{itemize}
+    \item AG Forest : Aggregated Mondrian Forest
+    \item SRP : Streaming Random Patches
+    \item AR Forest : Adaptive Random Forest
+    \item HA Tree : Hoeffding Adaptive Tree
+\end{itemize}

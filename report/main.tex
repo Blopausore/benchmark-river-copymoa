@@ -1,0 +1,66 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex}
+\usepackage{bookmark}
+\usepackage[left=1cm,right=1cm,top=1cm,bottom=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{animate}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{multicol} % Package for multi-column layout
+\usepackage{caption} % for \captionof command
+\usepackage{adjustbox}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{float}
+\usepackage{amsmath, amssymb} % si tu as des formules
+\usepackage{csvsimple}
+
+\usepackage{tabularx}
+\usepackage{pdflscape}
+
+\title{Data Stream Lab2 : Benchmark of River and CapyMoa}
+\author{Augustin Bresset}
+\date{2025}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section*{River}
+
+\subsection*{Regression Benchmark}
+\input{results/river_regression.tex}
+
+
+\subsection*{Binary Classification Benchmark}
+\input{results/river_binary_classification.tex}
+
+
+\subsection*{Multiclass Classification Benchmark}
+\input{results/river_multiclass_classification.tex}
+
+\section*{CapyMoa}
+
+\subsection*{Regression Benchmark}
+\input{results/capymoa_regression.tex}
+
+
+\subsection*{Binary Classification Benchmark}
+\input{results/capymoa_binary_classification.tex}
+
+
+\subsection*{Multiclass Classification Benchmark}
+\input{results/capymoa_multiclass_classification.tex}
+
+
+
+
+
+
+\end{document}
