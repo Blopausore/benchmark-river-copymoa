@@ -1,0 +1,1011 @@
+step,track,model,dataset,Memory in Mb,Time in s,using_fallback,Accuracy,F1
+106,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.096047,False,0.0,0.0
+212,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.21816,False,0.0,0.0
+318,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.36419999999999997,False,0.0,0.0
+424,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.528054,False,0.0,0.0
+530,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.70872,False,0.0,0.0
+636,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,0.906933,False,0.0,0.0
+742,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,1.12173,False,0.0,0.0
+848,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,1.3536089999999998,False,0.0,0.0
+954,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,1.6022999999999998,False,0.0,0.0
+1060,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,1.8683169999999998,False,0.0,0.0
+1166,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,2.154063,False,0.0,0.0
+1272,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,2.457068,False,0.0,0.0
+1378,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,2.776444,False,0.0,0.0
+1484,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,3.112636,False,0.0,0.0
+1590,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,3.465444,False,0.0,0.0
+1696,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,3.8349100000000003,False,0.0,0.0
+1802,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,4.220963,False,0.0,0.0
+1908,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,4.623184,False,0.0,0.0
+2014,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,5.0420240000000005,False,0.0,0.0
+2120,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,5.4770970000000005,False,0.0,0.0
+2226,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,5.928776000000001,False,0.0,0.0
+2332,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,6.396781000000001,False,0.0,0.0
+2438,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,6.881572000000001,False,0.0,0.0
+2544,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,7.382823000000001,False,0.0,0.0
+2650,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,7.903151000000001,False,0.0,0.0
+2756,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,8.453254000000001,False,0.0,0.0
+2862,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,9.033514,False,0.0,0.0
+2968,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,9.642597,False,0.0,0.0
+3074,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,10.268873000000001,False,0.0,0.0
+3180,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,10.911379,False,0.0,0.0
+3286,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,11.570355,False,0.0,0.0
+3392,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,12.245465999999999,False,0.0,0.0
+3498,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,12.937012999999999,False,0.0,0.0
+3604,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,13.645017999999999,False,0.0,0.0
+3710,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,14.369236999999998,False,0.0,0.0
+3816,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,15.112383999999999,False,0.0,0.0
+3922,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,15.874929999999999,False,0.0,0.0
+4028,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,16.654041,False,0.0,0.0
+4134,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,17.450765999999998,False,0.0,0.0
+4240,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,18.264260999999998,False,0.0,0.0
+4346,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,19.09407,False,0.0,0.0
+4452,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,19.940244999999997,False,0.0,0.0
+4558,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,20.802286999999996,False,0.0,0.0
+4664,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,21.680527999999995,False,0.0,0.0
+4770,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,22.574706999999997,False,0.0,0.0
+4876,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,23.485153999999998,False,0.0,0.0
+4982,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,24.411749999999998,False,0.0,0.0
+5088,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,25.354916999999997,False,0.0,0.0
+5194,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,26.314301999999998,False,0.0,0.0
+5300,Binary classification,CapyMoa Hoeffding Tree,Bananas,0.021879196166992188,27.290636999999997,False,0.0,0.0
+906,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,0.181863,False,0.0,0.0
+1812,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,0.568248,False,0.0,0.0
+2718,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,1.106608,False,0.0,0.0
+3624,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,1.781069,False,0.0,0.0
+4530,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,2.636303,False,0.0,0.0
+5436,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,3.631374,False,0.0,0.0
+6342,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,4.72213,False,0.0,0.0
+7248,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,5.893583,False,0.0,0.0
+8154,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,7.149108,False,0.0,0.0
+9060,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,8.530713,False,0.0,0.0
+9966,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,10.073492,False,0.0,0.0
+10872,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,11.757509,False,0.0,0.0
+11778,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,13.533286,False,0.0,0.0
+12684,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,15.390979,False,0.0,0.0
+13590,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,17.329291,False,0.0,0.0
+14496,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,19.349759000000002,False,0.0,0.0
+15402,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,21.451154000000002,False,0.0,0.0
+16308,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,23.633051000000002,False,0.0,0.0
+17214,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,25.997154000000002,False,0.0,0.0
+18120,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,28.457398,False,0.0,0.0
+19026,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,30.997912,False,0.0,0.0
+19932,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,33.620038,False,0.0,0.0
+20838,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,36.322346,False,0.0,0.0
+21744,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,39.106346,False,0.0,0.0
+22650,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,41.971609,False,0.0,0.0
+23556,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,44.918168,False,0.0,0.0
+24462,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,47.945982,False,0.0,0.0
+25368,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,51.054192,False,0.0,0.0
+26274,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,54.244987,False,0.0,0.0
+27180,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,57.518111000000005,False,0.0,0.0
+28086,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,60.873367,False,0.0,0.0
+28992,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,64.31218,False,0.0,0.0
+29898,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,67.914711,False,0.0,0.0
+30804,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,71.598393,False,0.0,0.0
+31710,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,75.364693,False,0.0,0.0
+32616,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,79.213435,False,0.0,0.0
+33522,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,83.145549,False,0.0,0.0
+34428,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,87.160801,False,0.0,0.0
+35334,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,91.257867,False,0.0,0.0
+36240,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,95.437538,False,0.0,0.0
+37146,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,99.69925500000001,False,0.0,0.0
+38052,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,104.04192,False,0.0,0.0
+38958,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,108.466689,False,0.0,0.0
+39864,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,113.003979,False,0.0,0.0
+40770,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,117.661824,False,0.0,0.0
+41676,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,122.40250999999999,False,0.0,0.0
+42582,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,127.343526,False,0.0,0.0
+43488,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,132.390424,False,0.0,0.0
+44394,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,137.518186,False,0.0,0.0
+45300,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,142.726792,False,0.0,0.0
+45312,Binary classification,CapyMoa Hoeffding Tree,Elec2,0.02235126495361328,147.93688799999998,False,0.0,0.0
+25,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.005043,False,0.0,0.0
+50,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.012965999999999998,False,0.0,0.0
+75,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.023368,False,0.0,0.0
+100,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.036274,False,0.0,0.0
+125,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.051680000000000004,False,0.0,0.0
+150,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.06961600000000001,False,0.0,0.0
+175,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.090093,False,0.0,0.0
+200,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.11325800000000001,False,0.0,0.0
+225,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.13897,False,0.0,0.0
+250,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.167243,False,0.0,0.0
+275,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.198051,False,0.0,0.0
+300,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.231347,False,0.0,0.0
+325,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.267144,False,0.0,0.0
+350,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.30547599999999997,False,0.0,0.0
+375,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.346292,False,0.0,0.0
+400,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.39002,False,0.0,0.0
+425,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.436334,False,0.0,0.0
+450,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.485252,False,0.0,0.0
+475,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.536782,False,0.0,0.0
+500,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.590966,False,0.0,0.0
+525,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.647679,False,0.0,0.0
+550,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.706933,False,0.0,0.0
+575,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.768703,False,0.0,0.0
+600,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.833148,False,0.0,0.0
+625,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.90012,False,0.0,0.0
+650,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,0.9696710000000001,False,0.0,0.0
+675,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.041754,False,0.0,0.0
+700,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.116705,False,0.0,0.0
+725,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.194212,False,0.0,0.0
+750,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.274196,False,0.0,0.0
+775,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.3568170000000002,False,0.0,0.0
+800,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.4421240000000002,False,0.0,0.0
+825,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.5299300000000002,False,0.0,0.0
+850,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.6202400000000003,False,0.0,0.0
+875,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.7130690000000004,False,0.0,0.0
+900,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.8084210000000005,False,0.0,0.0
+925,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,1.9062740000000005,False,0.0,0.0
+950,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.0066480000000007,False,0.0,0.0
+975,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.1095370000000004,False,0.0,0.0
+1000,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.2154070000000003,False,0.0,0.0
+1025,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.323805,False,0.0,0.0
+1050,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.4347220000000003,False,0.0,0.0
+1075,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.5481640000000003,False,0.0,0.0
+1100,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.6640500000000005,False,0.0,0.0
+1125,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.7824480000000005,False,0.0,0.0
+1150,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,2.9033850000000005,False,0.0,0.0
+1175,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,3.0268580000000007,False,0.0,0.0
+1200,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,3.1531100000000007,False,0.0,0.0
+1225,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,3.2818430000000007,False,0.0,0.0
+1250,Binary classification,CapyMoa Hoeffding Tree,Phishing,0.022485733032226562,3.4131550000000006,False,0.0,0.0
+1903,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,0.085834,False,0.0,0.0
+3806,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,0.35268999999999995,False,0.0,0.0
+5709,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,0.783895,False,0.0,0.0
+7612,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,1.374545,False,0.0,0.0
+9515,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,2.1132229999999996,False,0.0,0.0
+11418,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,2.9932419999999995,False,0.0,0.0
+13321,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,3.9673579999999995,False,0.0,0.0
+15224,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,5.027773999999999,False,0.0,0.0
+17127,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,6.174004999999999,False,0.0,0.0
+19030,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,7.407171999999999,False,0.0,0.0
+20933,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,8.726934,False,0.0,0.0
+22836,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,10.133043,False,0.0,0.0
+24739,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,11.625876000000002,False,0.0,0.0
+26642,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,13.205959000000002,False,0.0,0.0
+28545,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,14.872453000000002,False,0.0,0.0
+30448,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,16.625592,False,0.0,0.0
+32351,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,18.466258,False,0.0,0.0
+34254,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,20.394025,False,0.0,0.0
+36157,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,22.408412,False,0.0,0.0
+38060,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,24.510182,False,0.0,0.0
+39963,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,26.698298,False,0.0,0.0
+41866,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,28.972922,False,0.0,0.0
+43769,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,31.333765,False,0.0,0.0
+45672,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,33.782203,False,0.0,0.0
+47575,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,36.317937,False,0.0,0.0
+49478,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,38.941153,False,0.0,0.0
+51381,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,41.654927,False,0.0,0.0
+53284,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,44.457751,False,0.0,0.0
+55187,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,47.349518,False,0.0,0.0
+57090,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,50.332594,False,0.0,0.0
+58993,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,53.403006,False,0.0,0.0
+60896,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,56.562363,False,0.0,0.0
+62799,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,59.888858,False,0.0,0.0
+64702,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,63.303679,False,0.0,0.0
+66605,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,66.807728,False,0.0,0.0
+68508,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,70.400389,False,0.0,0.0
+70411,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,74.092433,False,0.0,0.0
+72314,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,77.872453,False,0.0,0.0
+74217,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,81.74117999999999,False,0.0,0.0
+76120,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,85.69792599999998,False,0.0,0.0
+78023,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,89.74331899999999,False,0.0,0.0
+79926,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,93.87769099999998,False,0.0,0.0
+81829,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,98.10036699999998,False,0.0,0.0
+83732,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,102.41058599999998,False,0.0,0.0
+85635,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,106.80815799999998,False,0.0,0.0
+87538,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,111.29332899999997,False,0.0,0.0
+89441,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,115.86741099999998,False,0.0,0.0
+91344,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,120.52977999999997,False,0.0,0.0
+93247,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,125.28018499999997,False,0.0,0.0
+95150,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,130.11746999999997,False,0.0,0.0
+95156,Binary classification,CapyMoa Hoeffding Tree,SMTP,0.02205944061279297,134.95545299999998,False,0.0,0.0
+106,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.018068,False,0.0,0.0
+212,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.04875,False,0.0,0.0
+318,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.092242,False,0.0,0.0
+424,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.148018,False,0.0,0.0
+530,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.215136,False,0.0,0.0
+636,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.293967,False,0.0,0.0
+742,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.38485199999999997,False,0.0,0.0
+848,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.487716,False,0.0,0.0
+954,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.601747,False,0.0,0.0
+1060,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.725533,False,0.0,0.0
+1166,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,0.859027,False,0.0,0.0
+1272,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.002141,False,0.0,0.0
+1378,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.154893,False,0.0,0.0
+1484,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.317194,False,0.0,0.0
+1590,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.489239,False,0.0,0.0
+1696,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.671631,False,0.0,0.0
+1802,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,1.8638080000000001,False,0.0,0.0
+1908,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,2.0658630000000002,False,0.0,0.0
+2014,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,2.277677,False,0.0,0.0
+2120,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,2.499082,False,0.0,0.0
+2226,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,2.730148,False,0.0,0.0
+2332,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,2.9706279999999996,False,0.0,0.0
+2438,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,3.2205249999999994,False,0.0,0.0
+2544,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,3.4800299999999993,False,0.0,0.0
+2650,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,3.749230999999999,False,0.0,0.0
+2756,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,4.027938999999999,False,0.0,0.0
+2862,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,4.316300999999999,False,0.0,0.0
+2968,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,4.614237999999999,False,0.0,0.0
+3074,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,4.921722999999999,False,0.0,0.0
+3180,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,5.238878999999999,False,0.0,0.0
+3286,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,5.565836999999999,False,0.0,0.0
+3392,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,5.902911,False,0.0,0.0
+3498,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,6.24968,False,0.0,0.0
+3604,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,6.606227,False,0.0,0.0
+3710,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,6.972569,False,0.0,0.0
+3816,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,7.348574,False,0.0,0.0
+3922,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,7.734144000000001,False,0.0,0.0
+4028,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,8.129392000000001,False,0.0,0.0
+4134,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,8.534253000000001,False,0.0,0.0
+4240,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,8.948738000000002,False,0.0,0.0
+4346,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,9.372905000000003,False,0.0,0.0
+4452,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,9.806839000000004,False,0.0,0.0
+4558,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,10.250550000000004,False,0.0,0.0
+4664,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,10.704014000000004,False,0.0,0.0
+4770,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,11.167141000000004,False,0.0,0.0
+4876,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,11.639796000000004,False,0.0,0.0
+4982,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,12.122438000000004,False,0.0,0.0
+5088,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,12.615258000000004,False,0.0,0.0
+5194,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,13.118149000000004,False,0.0,0.0
+5300,Binary classification,CapyMoa Hoeffding Adaptive Tree,Bananas,0.01809978485107422,13.630720000000004,False,0.0,0.0
+906,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,0.093535,False,0.0,0.0
+1812,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,0.416927,False,0.0,0.0
+2718,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,0.842317,False,0.0,0.0
+3624,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,1.3761999999999999,False,0.0,0.0
+4530,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,2.013961,False,0.0,0.0
+5436,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,2.866559,False,0.0,0.0
+6342,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,3.822053,False,0.0,0.0
+7248,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,4.877642,False,0.0,0.0
+8154,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,6.026959,False,0.0,0.0
+9060,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,7.2693449999999995,False,0.0,0.0
+9966,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,8.706704,False,0.0,0.0
+10872,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,10.242262,False,0.0,0.0
+11778,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,11.868457,False,0.0,0.0
+12684,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,13.589046999999999,False,0.0,0.0
+13590,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,15.40091,False,0.0,0.0
+14496,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,17.304403999999998,False,0.0,0.0
+15402,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,19.298567,False,0.0,0.0
+16308,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,21.384703,False,0.0,0.0
+17214,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,23.652015,False,0.0,0.0
+18120,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,26.013728999999998,False,0.0,0.0
+19026,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,28.490529,False,0.0,0.0
+19932,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,31.250897,False,0.0,0.0
+20838,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,34.197705,False,0.0,0.0
+21744,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,37.298423,False,0.0,0.0
+22650,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,40.557187,False,0.0,0.0
+23556,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,43.954436,False,0.0,0.0
+24462,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,47.444634,False,0.0,0.0
+25368,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,51.027382,False,0.0,0.0
+26274,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,54.858178,False,0.0,0.0
+27180,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,58.838733000000005,False,0.0,0.0
+28086,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,62.974006,False,0.0,0.0
+28992,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,67.22588400000001,False,0.0,0.0
+29898,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,71.569484,False,0.0,0.0
+30804,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,76.003517,False,0.0,0.0
+31710,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,80.528435,False,0.0,0.0
+32616,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,85.144665,False,0.0,0.0
+33522,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,89.983903,False,0.0,0.0
+34428,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,94.915907,False,0.0,0.0
+35334,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,99.939125,False,0.0,0.0
+36240,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,105.053025,False,0.0,0.0
+37146,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,110.25757200000001,False,0.0,0.0
+38052,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,115.55179700000001,False,0.0,0.0
+38958,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,120.93957700000001,False,0.0,0.0
+39864,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,126.54783900000001,False,0.0,0.0
+40770,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,132.33525600000002,False,0.0,0.0
+41676,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,138.27482400000002,False,0.0,0.0
+42582,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,144.36778800000002,False,0.0,0.0
+43488,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,150.57355800000002,False,0.0,0.0
+44394,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,156.87762300000003,False,0.0,0.0
+45300,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,163.43414300000003,False,0.0,0.0
+45312,Binary classification,CapyMoa Hoeffding Adaptive Tree,Elec2,0.018571853637695312,169.99348200000003,False,0.0,0.0
+25,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.009196,False,0.0,0.0
+50,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.023518999999999998,False,0.0,0.0
+75,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.042505,False,0.0,0.0
+100,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.066302,False,0.0,0.0
+125,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.094958,False,0.0,0.0
+150,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.128374,False,0.0,0.0
+175,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.166547,False,0.0,0.0
+200,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.209502,False,0.0,0.0
+225,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.257085,False,0.0,0.0
+250,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.309504,False,0.0,0.0
+275,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.36667700000000003,False,0.0,0.0
+300,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.428549,False,0.0,0.0
+325,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.495174,False,0.0,0.0
+350,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.566539,False,0.0,0.0
+375,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.642649,False,0.0,0.0
+400,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.723352,False,0.0,0.0
+425,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.8089109999999999,False,0.0,0.0
+450,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.899802,False,0.0,0.0
+475,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,0.995355,False,0.0,0.0
+500,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.098387,False,0.0,0.0
+525,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.206297,False,0.0,0.0
+550,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.319094,False,0.0,0.0
+575,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.436719,False,0.0,0.0
+600,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.559172,False,0.0,0.0
+625,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.686569,False,0.0,0.0
+650,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.818771,False,0.0,0.0
+675,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,1.955632,False,0.0,0.0
+700,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.097257,False,0.0,0.0
+725,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.243751,False,0.0,0.0
+750,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.395048,False,0.0,0.0
+775,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.551117,False,0.0,0.0
+800,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.711965,False,0.0,0.0
+825,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,2.877403,False,0.0,0.0
+850,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.0474360000000003,False,0.0,0.0
+875,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.222154,False,0.0,0.0
+900,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.401686,False,0.0,0.0
+925,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.585824,False,0.0,0.0
+950,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.774693,False,0.0,0.0
+975,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,3.968333,False,0.0,0.0
+1000,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,4.166557,False,0.0,0.0
+1025,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,4.3696340000000005,False,0.0,0.0
+1050,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,4.577350000000001,False,0.0,0.0
+1075,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,4.789469000000001,False,0.0,0.0
+1100,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,5.006099000000002,False,0.0,0.0
+1125,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,5.227032000000001,False,0.0,0.0
+1150,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,5.452515000000001,False,0.0,0.0
+1175,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,5.6828460000000005,False,0.0,0.0
+1200,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,5.917515000000001,False,0.0,0.0
+1225,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,6.156275000000001,False,0.0,0.0
+1250,Binary classification,CapyMoa Hoeffding Adaptive Tree,Phishing,0.018706321716308594,6.399244000000001,False,0.0,0.0
+1903,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,0.10077,False,0.0,0.0
+3806,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,0.324617,False,0.0,0.0
+5709,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,0.647181,False,0.0,0.0
+7612,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,1.051863,False,0.0,0.0
+9515,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,1.539743,False,0.0,0.0
+11418,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,2.110793,False,0.0,0.0
+13321,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,2.764765,False,0.0,0.0
+15224,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,3.5024800000000003,False,0.0,0.0
+17127,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,4.324051000000001,False,0.0,0.0
+19030,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,5.230272000000001,False,0.0,0.0
+20933,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,6.220835000000001,False,0.0,0.0
+22836,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,7.295959000000001,False,0.0,0.0
+24739,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,8.455853000000001,False,0.0,0.0
+26642,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,9.699878000000002,False,0.0,0.0
+28545,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,11.028503000000002,False,0.0,0.0
+30448,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,12.441475000000002,False,0.0,0.0
+32351,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,13.938535000000002,False,0.0,0.0
+34254,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,15.519490000000001,False,0.0,0.0
+36157,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,17.184665000000003,False,0.0,0.0
+38060,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,18.934787000000004,False,0.0,0.0
+39963,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,20.769426000000003,False,0.0,0.0
+41866,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,22.688062000000002,False,0.0,0.0
+43769,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,24.809911000000003,False,0.0,0.0
+45672,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,27.092861000000003,False,0.0,0.0
+47575,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,29.528222000000003,False,0.0,0.0
+49478,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,32.109716000000006,False,0.0,0.0
+51381,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,34.78770300000001,False,0.0,0.0
+53284,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,37.554415000000006,False,0.0,0.0
+55187,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,40.410788000000004,False,0.0,0.0
+57090,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,43.361064000000006,False,0.0,0.0
+58993,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,46.40410800000001,False,0.0,0.0
+60896,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,49.54002900000001,False,0.0,0.0
+62799,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,52.82281400000001,False,0.0,0.0
+64702,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,56.25752000000001,False,0.0,0.0
+66605,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,59.840075000000006,False,0.0,0.0
+68508,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,63.522825000000005,False,0.0,0.0
+70411,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,67.290023,False,0.0,0.0
+72314,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,71.141514,False,0.0,0.0
+74217,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,75.076781,False,0.0,0.0
+76120,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,79.09764899999999,False,0.0,0.0
+78023,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,83.203594,False,0.0,0.0
+79926,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,87.394409,False,0.0,0.0
+81829,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,91.670546,False,0.0,0.0
+83732,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,96.032065,False,0.0,0.0
+85635,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,100.478252,False,0.0,0.0
+87538,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,105.00906499999999,False,0.0,0.0
+89441,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,109.74155699999999,False,0.0,0.0
+91344,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,114.55800499999998,False,0.0,0.0
+93247,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,119.46027599999998,False,0.0,0.0
+95150,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,124.44855499999998,False,0.0,0.0
+95156,Binary classification,CapyMoa Hoeffding Adaptive Tree,SMTP,0.018280029296875,129.43757599999998,False,0.0,0.0
+106,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,1.196591,False,0.0,0.0
+212,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,2.765336,False,0.0,0.0
+318,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,4.667529,False,0.0,0.0
+424,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,6.9485,False,0.0,0.0
+530,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,9.511793,False,0.0,0.0
+636,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,12.387076,False,0.0,0.0
+742,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,15.53378,False,0.0,0.0
+848,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,18.95054,False,0.0,0.0
+954,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,22.66046,False,0.0,0.0
+1060,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,26.646365,False,0.0,0.0
+1166,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,30.948352999999997,False,0.0,0.0
+1272,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,35.524045,False,0.0,0.0
+1378,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,40.255483,False,0.0,0.0
+1484,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,45.255308,False,0.0,0.0
+1590,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,50.51797,False,0.0,0.0
+1696,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,56.047739,False,0.0,0.0
+1802,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,61.7325,False,0.0,0.0
+1908,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,67.743487,False,0.0,0.0
+2014,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,74.031795,False,0.0,0.0
+2120,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,80.480765,False,0.0,0.0
+2226,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,87.21428,False,0.0,0.0
+2332,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,94.233331,False,0.0,0.0
+2438,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,101.426625,False,0.0,0.0
+2544,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,108.931048,False,0.0,0.0
+2650,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,116.735389,False,0.0,0.0
+2756,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,124.70375299999999,False,0.0,0.0
+2862,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,132.952283,False,0.0,0.0
+2968,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,141.506698,False,0.0,0.0
+3074,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,150.24804,False,0.0,0.0
+3180,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,159.28015200000002,False,0.0,0.0
+3286,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,168.468883,False,0.0,0.0
+3392,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,177.93323700000002,False,0.0,0.0
+3498,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,187.55931300000003,False,0.0,0.0
+3604,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,197.49207900000005,False,0.0,0.0
+3710,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,207.59468300000003,False,0.0,0.0
+3816,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,217.98267700000002,False,0.0,0.0
+3922,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,228.54416600000002,False,0.0,0.0
+4028,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,239.43883900000003,False,0.0,0.0
+4134,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,250.50859900000003,False,0.0,0.0
+4240,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,261.867027,False,0.0,0.0
+4346,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,273.384232,False,0.0,0.0
+4452,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,285.192513,False,0.0,0.0
+4558,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,297.16179900000003,False,0.0,0.0
+4664,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,309.40519900000004,False,0.0,0.0
+4770,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,321.82308900000004,False,0.0,0.0
+4876,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,334.57553800000005,False,0.0,0.0
+4982,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,347.50576100000006,False,0.0,0.0
+5088,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,360.7207250000001,False,0.0,0.0
+5194,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,374.0982640000001,False,0.0,0.0
+5300,Binary classification,CapyMoa Adaptive Random Forest,Bananas,0.020193099975585938,387.77165800000006,False,0.0,0.0
+906,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4.32579,False,0.0,0.0
+1812,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,12.093489,False,0.0,0.0
+2718,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,23.631211,False,0.0,0.0
+3624,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,38.246529,False,0.0,0.0
+4530,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,56.314188,False,0.0,0.0
+5436,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,77.475036,False,0.0,0.0
+6342,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,101.944202,False,0.0,0.0
+7248,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,130.087321,False,0.0,0.0
+8154,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,161.618871,False,0.0,0.0
+9060,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,196.70791300000002,False,0.0,0.0
+9966,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,235.38681000000003,False,0.0,0.0
+10872,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,277.025593,False,0.0,0.0
+11778,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,321.589786,False,0.0,0.0
+12684,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,369.261249,False,0.0,0.0
+13590,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,419.734166,False,0.0,0.0
+14496,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,473.021076,False,0.0,0.0
+15402,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,529.799971,False,0.0,0.0
+16308,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,590.288433,False,0.0,0.0
+17214,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,654.307134,False,0.0,0.0
+18120,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,722.246209,False,0.0,0.0
+19026,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,794.1718970000001,False,0.0,0.0
+19932,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,869.943977,False,0.0,0.0
+20838,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,949.406339,False,0.0,0.0
+21744,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1032.749228,False,0.0,0.0
+22650,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1120.899578,False,0.0,0.0
+23556,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1214.24467,False,0.0,0.0
+24462,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1312.625602,False,0.0,0.0
+25368,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1415.848244,False,0.0,0.0
+26274,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1524.074714,False,0.0,0.0
+27180,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1636.74126,False,0.0,0.0
+28086,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1754.08226,False,0.0,0.0
+28992,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,1875.9551999999999,False,0.0,0.0
+29898,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2002.5218739999998,False,0.0,0.0
+30804,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2133.334543,False,0.0,0.0
+31710,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2268.667015,False,0.0,0.0
+32616,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2408.787237,False,0.0,0.0
+33522,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2553.468327,False,0.0,0.0
+34428,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2703.02852,False,0.0,0.0
+35334,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,2857.14437,False,0.0,0.0
+36240,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3015.435961,False,0.0,0.0
+37146,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3177.846203,False,0.0,0.0
+38052,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3344.598319,False,0.0,0.0
+38958,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3515.8481340000003,False,0.0,0.0
+39864,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3691.678518,False,0.0,0.0
+40770,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,3872.2734990000004,False,0.0,0.0
+41676,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4057.7158870000003,False,0.0,0.0
+42582,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4247.629405000001,False,0.0,0.0
+43488,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4442.183410000001,False,0.0,0.0
+44394,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4641.251575,False,0.0,0.0
+45300,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,4844.694531,False,0.0,0.0
+45312,Binary classification,CapyMoa Adaptive Random Forest,Elec2,0.02066516876220703,5048.1760110000005,False,0.0,0.0
+25,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,0.209028,False,0.0,0.0
+50,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,0.514625,False,0.0,0.0
+75,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,1.0210569999999999,False,0.0,0.0
+100,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,1.608047,False,0.0,0.0
+125,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,2.412811,False,0.0,0.0
+150,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,3.2939350000000003,False,0.0,0.0
+175,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,4.324569,False,0.0,0.0
+200,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,5.430022,False,0.0,0.0
+225,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,6.592602,False,0.0,0.0
+250,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,7.938294000000001,False,0.0,0.0
+275,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,9.337593000000002,False,0.0,0.0
+300,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,10.896718000000002,False,0.0,0.0
+325,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,12.508370000000001,False,0.0,0.0
+350,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,14.167362,False,0.0,0.0
+375,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,15.98351,False,0.0,0.0
+400,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,17.844738,False,0.0,0.0
+425,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,19.751513,False,0.0,0.0
+450,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,21.8449,False,0.0,0.0
+475,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,23.99868,False,0.0,0.0
+500,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,26.19998,False,0.0,0.0
+525,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,28.563054,False,0.0,0.0
+550,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,30.982424,False,0.0,0.0
+575,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,33.448197,False,0.0,0.0
+600,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,35.963012,False,0.0,0.0
+625,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,38.617841999999996,False,0.0,0.0
+650,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,41.319717,False,0.0,0.0
+675,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,44.071959,False,0.0,0.0
+700,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,46.984675,False,0.0,0.0
+725,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,49.958063,False,0.0,0.0
+750,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,52.984111000000006,False,0.0,0.0
+775,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,56.06771500000001,False,0.0,0.0
+800,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,59.29828700000001,False,0.0,0.0
+825,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,62.582679000000006,False,0.0,0.0
+850,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,65.924299,False,0.0,0.0
+875,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,69.41267900000001,False,0.0,0.0
+900,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,72.95948100000001,False,0.0,0.0
+925,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,76.57579400000002,False,0.0,0.0
+950,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,80.25253200000002,False,0.0,0.0
+975,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,84.10594500000002,False,0.0,0.0
+1000,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,88.02274600000003,False,0.0,0.0
+1025,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,92.00247600000003,False,0.0,0.0
+1050,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,96.16271300000002,False,0.0,0.0
+1075,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,100.38987200000003,False,0.0,0.0
+1100,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,104.68049700000003,False,0.0,0.0
+1125,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,109.12121800000003,False,0.0,0.0
+1150,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,113.63432500000003,False,0.0,0.0
+1175,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,118.21244100000003,False,0.0,0.0
+1200,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,122.85581400000002,False,0.0,0.0
+1225,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,127.64957300000002,False,0.0,0.0
+1250,Binary classification,CapyMoa Adaptive Random Forest,Phishing,0.020799636840820312,132.50657500000003,False,0.0,0.0
+1903,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,0.572134,False,0.0,0.0
+3806,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,1.484056,False,0.0,0.0
+5709,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,2.817327,False,0.0,0.0
+7612,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,4.499251,False,0.0,0.0
+9515,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,6.612934,False,0.0,0.0
+11418,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,9.083961,False,0.0,0.0
+13321,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,11.97466,False,0.0,0.0
+15224,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,15.323642,False,0.0,0.0
+17127,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,19.050542,False,0.0,0.0
+19030,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,23.367829999999998,False,0.0,0.0
+20933,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,28.157512999999998,False,0.0,0.0
+22836,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,33.573482,False,0.0,0.0
+24739,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,39.408713999999996,False,0.0,0.0
+26642,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,45.678746,False,0.0,0.0
+28545,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,52.389015,False,0.0,0.0
+30448,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,59.463734,False,0.0,0.0
+32351,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,66.99933200000001,False,0.0,0.0
+34254,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,75.11859400000002,False,0.0,0.0
+36157,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,83.80785700000001,False,0.0,0.0
+38060,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,93.06433500000001,False,0.0,0.0
+39963,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,102.96522200000001,False,0.0,0.0
+41866,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,113.28546400000002,False,0.0,0.0
+43769,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,124.05758200000002,False,0.0,0.0
+45672,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,135.203211,False,0.0,0.0
+47575,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,146.793155,False,0.0,0.0
+49478,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,158.82006900000002,False,0.0,0.0
+51381,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,171.22229900000002,False,0.0,0.0
+53284,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,184.07309100000003,False,0.0,0.0
+55187,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,197.30569200000002,False,0.0,0.0
+57090,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,211.10677500000003,False,0.0,0.0
+58993,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,225.54426300000003,False,0.0,0.0
+60896,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,240.40209900000002,False,0.0,0.0
+62799,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,256.064926,False,0.0,0.0
+64702,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,272.331744,False,0.0,0.0
+66605,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,289.052059,False,0.0,0.0
+68508,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,306.288012,False,0.0,0.0
+70411,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,323.96953099999996,False,0.0,0.0
+72314,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,342.150519,False,0.0,0.0
+74217,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,360.75058099999995,False,0.0,0.0
+76120,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,379.91947099999993,False,0.0,0.0
+78023,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,399.7040819999999,False,0.0,0.0
+79926,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,420.07049299999994,False,0.0,0.0
+81829,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,441.07457999999997,False,0.0,0.0
+83732,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,462.60027699999995,False,0.0,0.0
+85635,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,484.6646089999999,False,0.0,0.0
+87538,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,507.15658299999996,False,0.0,0.0
+89441,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,530.1609659999999,False,0.0,0.0
+91344,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,553.735066,False,0.0,0.0
+93247,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,577.8693589999999,False,0.0,0.0
+95150,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,602.65059,False,0.0,0.0
+95156,Binary classification,CapyMoa Adaptive Random Forest,SMTP,0.02037334442138672,627.433632,False,0.0,0.0
+106,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.002844,True,0.4857142857142857,0.12903225806451613
+212,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.007104,True,0.5260663507109005,0.07407407407407406
+318,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.012702999999999999,True,0.5299684542586751,0.050955414012738856
+424,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.019573,True,0.5390070921985816,0.03940886699507389
+530,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.027706,True,0.553875236294896,0.03278688524590164
+636,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.037163,True,0.5543307086614173,0.027491408934707903
+742,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.047922,True,0.5654520917678812,0.024242424242424246
+848,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.059982,True,0.5631641086186541,0.021164021164021163
+954,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.073426,True,0.5645330535152151,0.018912529550827426
+1060,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.088203,True,0.5703493862134089,0.017278617710583154
+1166,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.10431800000000001,True,0.5682403433476395,0.015655577299412915
+1272,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.121811,True,0.5641227380015735,0.014234875444839859
+1378,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.14064100000000002,True,0.5679012345679012,0.013266998341625208
+1484,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.16077200000000003,True,0.5677680377612947,0.012326656394453005
+1590,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.18226400000000004,True,0.5676526117054751,0.011510791366906473
+1696,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.20510800000000004,True,0.5681415929203539,0.010810810810810811
+1802,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.22928700000000005,True,0.5641310383120489,0.01008827238335435
+1908,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.25483300000000003,True,0.5600419507079182,0.009445100354191261
+2014,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.281698,True,0.5548931942374565,0.008849557522123894
+2120,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.30988,True,0.5507314771118452,0.008333333333333333
+2226,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.339405,True,0.5510112359550562,0.007944389275074478
+2332,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.370311,True,0.5504075504075504,0.007575757575757575
+2438,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.402549,True,0.5514977431267952,0.007266121707538602
+2544,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.436181,True,0.5485646873771136,0.006920415224913494
+2650,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.47116199999999997,True,0.5466213665534164,0.006617038875103391
+2756,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.50746,True,0.547005444646098,0.006369426751592357
+2862,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.545129,True,0.5487591751135966,0.006158583525789069
+2968,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.584116,True,0.5503875968992248,0.005961251862891208
+3074,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.6244149999999999,True,0.5486495281483892,0.005734767025089606
+3180,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.666087,True,0.5508021390374331,0.005571030640668524
+3286,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.709097,True,0.5515981735159817,0.0054017555705604325
+3392,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.75347,True,0.5496903568268947,0.005211726384364821
+3498,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.799182,True,0.5513297111810123,0.005072923272035511
+3604,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.846225,True,0.5534276991396059,0.004947433518862091
+3710,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.894649,True,0.5521703963332435,0.004793289394847214
+3816,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.944392,True,0.5515072083879423,0.004653868528214078
+3922,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,0.995501,True,0.5524100994644223,0.004537719795802609
+4028,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.047991,True,0.5527688105289297,0.004422332780541736
+4134,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.101856,True,0.5528671667069925,0.004310344827586207
+4240,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.1570639999999999,True,0.5522528898325076,0.004197271773347324
+4346,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.2136419999999999,True,0.5525891829689298,0.004098360655737704
+4452,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.2715379999999998,True,0.5529094585486407,0.004004004004004004
+4558,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.3307809999999998,True,0.5508009655475093,0.00389294403892944
+4664,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.3914019999999998,True,0.5496461505468583,0.003795066413662239
+4770,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.4533819999999997,True,0.5504298595093311,0.003717472118959108
+4876,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.5166809999999997,True,0.5517948717948717,0.0036479708162334696
+4982,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.5813349999999997,True,0.5508933949006224,0.0035634743875278397
+5088,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.6473349999999998,True,0.5510123845095342,0.003490401396160559
+5194,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.7148519999999998,True,0.5513190833814751,0.0034217279726261765
+5300,Binary classification,CapyMoa Online Bagging,Bananas,0.0015802383422851562,1.7838189999999998,True,0.5512360822796755,0.003352891869237217
+906,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.016137,True,0.5038674033149171,0.09657947686116701
+1812,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.047289,True,0.5935946990612921,0.061224489795918366
+2718,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.09328600000000001,True,0.5910931174089069,0.04141501294219154
+3624,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.153993,True,0.5914987579354126,0.031413612565445025
+4530,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.230624,True,0.6034444689776993,0.026030368763557486
+5436,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.322118,True,0.603311867525299,0.021778584392014518
+6342,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.428371,True,0.6002207853650844,0.018583042973286876
+7248,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.549799,True,0.5994204498413136,0.01626567265333785
+8154,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.686022,True,0.5829755918066969,0.013921113689095129
+9060,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,0.836949,True,0.5743459542995916,0.012295081967213115
+9966,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,1.003042,True,0.566783743100853,0.010996563573883162
+10872,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,1.1838199999999999,True,0.5606659920890442,0.009950248756218905
+11778,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,1.3795669999999998,True,0.5600747219155982,0.009179575444635685
+12684,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,1.5902189999999998,True,0.5602775368603643,0.008533333333333334
+13590,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,1.8157699999999999,True,0.554934137905659,0.007874015748031496
+14496,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,2.056227,True,0.5525353570196619,0.0073461891643709825
+15402,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,2.3114939999999997,True,0.5544445165898318,0.00694645441389291
+16308,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,2.5816929999999996,True,0.5560188875942846,0.006586169045005488
+17214,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,2.8668029999999995,True,0.561958984488468,0.0063257775434897206
+18120,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,3.1667689999999995,True,0.5626138307853634,0.006020318575191271
+19026,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,3.4814489999999996,True,0.5666754270696452,0.0057887120115774245
+19932,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,3.8109229999999994,True,0.5626411118358337,0.005476326297775242
+20838,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,4.155418999999999,True,0.5615011757930605,0.0052259118127381595
+21744,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,4.514937999999999,True,0.5676769535022766,0.005080440304826419
+22650,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,4.889235999999999,True,0.5702238509426465,0.0049069719893682275
+23556,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,5.278491999999998,True,0.5708342177881554,0.004725804863640839
+24462,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,5.683208999999998,True,0.5736478475941295,0.004581464159587668
+25368,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,6.102774999999998,True,0.5729491071076596,0.0044113592500689275
+26274,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,6.537212999999998,True,0.5737449092223956,0.004267804747932782
+27180,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,6.986534999999998,True,0.5722800691710512,0.004112053456694937
+28086,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,7.450912999999998,True,0.5737938401281824,0.003994008986520219
+28992,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,7.930604999999998,True,0.5753164775275086,0.003883495145631068
+29898,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,8.425142999999998,True,0.5759775228283774,0.0037721021611001964
+30804,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,8.934755999999998,True,0.5778333279226049,0.003677597303095311
+31710,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,9.459401999999999,True,0.5775331924690151,0.0035703659625111574
+32616,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,9.999011,True,0.5770044458071439,0.00346720600982375
+33522,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,10.553417,True,0.5768324333999583,0.003372444319539099
+34428,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,11.122792,True,0.5765823336334853,0.003282051282051282
+35334,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,11.707528,True,0.578779045085331,0.003214788024914607
+36240,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,12.307364,True,0.5819972957311184,0.0031587259805211892
+37146,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,12.921998,True,0.5830663615560641,0.003089797232056646
+38052,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,13.551543,True,0.5848466531760006,0.003029346797096876
+38958,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,14.195839000000001,True,0.584028544292425,0.002953300929059251
+39864,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,14.855077000000001,True,0.5814665228407295,0.0028687544824288784
+40770,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,15.529118000000002,True,0.57847874610611,0.0027853536818893986
+41676,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,16.218147000000002,True,0.5759808038392321,0.0027089564873864214
+42582,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,16.922352000000004,True,0.5750452079566004,0.0026456484594609493
+43488,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,17.641788000000005,True,0.5747464759583324,0.002588857127447279
+44394,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,18.375930000000004,True,0.575698871443696,0.002541834357127727
+45300,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,19.124931000000004,True,0.5752665621757654,0.0024885939444214016
+45312,Binary classification,CapyMoa Online Bagging,Elec2,0.001956939697265625,19.874318000000002,True,0.5753349076383218,0.002488335925349922
+25,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.00205,True,0.5,0.6666666666666666
+50,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.004691000000000001,True,0.5102040816326531,0.52
+75,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.007811,True,0.43243243243243246,0.38235294117647056
+100,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.011399,True,0.4444444444444444,0.32098765432098764
+125,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.015472,True,0.45161290322580644,0.3703703703703704
+150,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.020016,True,0.4563758389261745,0.37209302325581395
+175,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.025037999999999998,True,0.47701149425287354,0.3453237410071942
+200,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.030536999999999998,True,0.4824120603015075,0.31788079470198677
+225,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.036511,True,0.5044642857142857,0.3018867924528302
+250,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.043026,True,0.5020080321285141,0.2790697674418604
+275,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.050030000000000005,True,0.5145985401459854,0.26519337016574585
+300,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.057517000000000006,True,0.5284280936454849,0.25396825396825395
+325,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.06549,True,0.5401234567901234,0.24365482233502533
+350,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.07395,True,0.5501432664756447,0.23414634146341468
+375,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.082897,True,0.5561497326203209,0.22429906542056077
+400,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.09232599999999999,True,0.5614035087719298,0.21524663677130043
+425,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.10224299999999999,True,0.5731132075471698,0.2096069868995633
+450,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.11265599999999999,True,0.579064587973274,0.20253164556962025
+475,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.12357099999999999,True,0.5717299578059072,0.19123505976095617
+500,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.13502799999999998,True,0.5651302605210421,0.1811320754716981
+525,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.14697999999999997,True,0.5744274809160306,0.17712177121771217
+550,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.15942499999999998,True,0.5719489981785064,0.1696113074204947
+575,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.17237199999999997,True,0.5749128919860628,0.16438356164383558
+600,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.18581499999999998,True,0.5826377295492488,0.16107382550335572
+625,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.19974499999999998,True,0.592948717948718,0.15894039735099338
+650,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.214163,True,0.5870570107858244,0.15189873417721517
+675,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.22908299999999998,True,0.5786350148367952,0.14457831325301207
+700,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.24449099999999999,True,0.5836909871244635,0.1415929203539823
+725,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.26043499999999997,True,0.5759668508287292,0.1352112676056338
+750,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.276871,True,0.5740987983978638,0.13079019073569484
+775,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.29379099999999997,True,0.5749354005167958,0.12732095490716178
+800,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.311191,True,0.5694618272841051,0.12244897959183673
+825,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.32908,True,0.566747572815534,0.11851851851851851
+850,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.347456,True,0.568904593639576,0.11594202898550725
+875,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.36630999999999997,True,0.5709382151029748,0.11347517730496455
+900,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.38564499999999996,True,0.5728587319243604,0.1111111111111111
+925,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.40547199999999994,True,0.5692640692640693,0.10762331838565023
+950,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.42578099999999997,True,0.5637513171759747,0.1038961038961039
+975,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.446619,True,0.5646817248459959,0.1016949152542373
+1000,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.467948,True,0.5645645645645646,0.09937888198757765
+1025,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.489759,True,0.5615234375,0.09657947686116698
+1050,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.512063,True,0.559580552907531,0.09411764705882354
+1075,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.534864,True,0.5577281191806331,0.09177820267686425
+1100,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.558148,True,0.556869881710646,0.08971962616822429
+1125,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.581908,True,0.552491103202847,0.08711433756805809
+1150,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.60615,True,0.5535248041775457,0.0855614973262032
+1175,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.630886,True,0.5545144804088586,0.0840630472854641
+1200,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.6561189999999999,True,0.5562969140950792,0.08275862068965519
+1225,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.6818569999999999,True,0.5563725490196079,0.08121827411167512
+1250,Binary classification,CapyMoa Online Bagging,Phishing,0.0020914077758789062,0.7081439999999999,True,0.55484387510008,0.07947019867549668
+1903,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.028081,True,1.0,0.0
+3806,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.083315,True,1.0,0.0
+5709,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.165298,True,1.0,0.0
+7612,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.274192,True,1.0,0.0
+9515,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.40976999999999997,True,1.0,0.0
+11418,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.5719179999999999,True,1.0,0.0
+13321,Binary classification,CapyMoa Online Bagging,SMTP,0.0016384124755859375,0.7611589999999999,True,1.0,0.0
+15224,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,0.9771619999999999,True,0.9992774091834724,0.0
+17127,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,1.2198079999999998,True,0.9992409202382343,0.0
+19030,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,1.4892179999999997,True,0.9993168322034789,0.0
+20933,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,1.7857259999999997,True,0.999378941333843,0.0
+22836,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,2.109088,True,0.9994306984891613,0.0
+24739,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,2.4592669999999996,True,0.9994744926833212,0.0
+26642,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,2.8363389999999997,True,0.9994744942006681,0.0
+28545,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,3.2403189999999995,True,0.9995095291479821,0.0
+30448,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,3.6716179999999996,True,0.9995401845830459,0.0
+32351,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,4.129536,True,0.9995672333848532,0.0
+34254,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,4.614231,True,0.9995912766764955,0.0
+36157,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,5.1255440000000005,True,0.9996127890253347,0.0
+38060,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,5.6644060000000005,True,0.9996321500827662,0.0
+39963,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,6.229964000000001,True,0.9996496671838246,0.0
+41866,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,6.822085,True,0.9996655917831124,0.0
+43769,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,7.441109000000001,True,0.9996801316029976,0.0
+45672,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,8.086686,True,0.9996934597446958,0.0
+47575,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,8.759383,True,0.9997057216126456,0.0
+49478,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,9.458763,True,0.99971704024092,0.0
+51381,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,10.184852999999999,True,0.9996885947839627,0.0
+53284,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,10.93775,True,0.9996997166075484,0.0
+55187,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,11.717634,True,0.999710071394919,0.0
+57090,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,12.524883,True,0.9995620872672494,0.0
+58993,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,13.358955000000002,True,0.9995762137238947,0.0
+60896,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,14.220075000000001,True,0.999589457262501,0.0
+62799,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,15.108149000000001,True,0.9995700500015924,0.0
+64702,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,16.023094,True,0.9995826957852274,0.0
+66605,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,16.965165,True,0.9995946189418053,0.0
+68508,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,17.934458,True,0.9995766855941729,0.0
+70411,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,18.930543,True,0.9995881266865502,0.0
+72314,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,19.953463,True,0.9995989656078437,0.0
+74217,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,21.0032,True,0.99960924867953,0.0
+76120,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,22.080391,True,0.9996190175908775,0.0
+78023,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,23.184376,True,0.9996283099638563,0.0
+79926,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,24.315159,True,0.9996371598373475,0.0
+81829,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,25.472814,True,0.9996455980837855,0.0
+83732,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,26.657694,True,0.9996536527689864,0.0
+85635,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,27.869364,True,0.999661349463998,0.0
+87538,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,29.107864,True,0.9996687115162731,0.0
+89441,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,30.373143,True,0.9996645796064401,0.0
+91344,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,31.665314,True,0.999671567607808,0.0
+93247,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,32.984781999999996,True,0.9996782703815713,0.0
+95150,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,34.331047999999996,True,0.9996847050415664,0.0
+95156,Binary classification,CapyMoa Online Bagging,SMTP,0.0016918182373046875,35.677566999999996,True,0.9996847249224948,0.0
+106,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.002894,True,0.4857142857142857,0.12903225806451613
+212,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.007291,True,0.5260663507109005,0.07407407407407406
+318,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.013106,True,0.5299684542586751,0.050955414012738856
+424,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.020288,True,0.5390070921985816,0.03940886699507389
+530,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.028839,True,0.553875236294896,0.03278688524590164
+636,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.038847,True,0.5543307086614173,0.027491408934707903
+742,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.050255,True,0.5654520917678812,0.024242424242424246
+848,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.063039,True,0.5631641086186541,0.021164021164021163
+954,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.07725499999999999,True,0.5645330535152151,0.018912529550827426
+1060,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.09286399999999999,True,0.5703493862134089,0.017278617710583154
+1166,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.10983599999999999,True,0.5682403433476395,0.015655577299412915
+1272,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.12822299999999998,True,0.5641227380015735,0.014234875444839859
+1378,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.14797699999999997,True,0.5679012345679012,0.013266998341625208
+1484,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.16909199999999996,True,0.5677680377612947,0.012326656394453005
+1590,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.19162299999999996,True,0.5676526117054751,0.011510791366906473
+1696,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.21555099999999996,True,0.5681415929203539,0.010810810810810811
+1802,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.24087499999999995,True,0.5641310383120489,0.01008827238335435
+1908,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.26764299999999996,True,0.5600419507079182,0.009445100354191261
+2014,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.29577899999999996,True,0.5548931942374565,0.008849557522123894
+2120,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.32526799999999995,True,0.5507314771118452,0.008333333333333333
+2226,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.35614199999999996,True,0.5510112359550562,0.007944389275074478
+2332,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.38837199999999994,True,0.5504075504075504,0.007575757575757575
+2438,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.42194799999999993,True,0.5514977431267952,0.007266121707538602
+2544,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.45691599999999993,True,0.5485646873771136,0.006920415224913494
+2650,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.4932269999999999,True,0.5466213665534164,0.006617038875103391
+2756,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.5308989999999999,True,0.547005444646098,0.006369426751592357
+2862,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.5699809999999998,True,0.5487591751135966,0.006158583525789069
+2968,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.6104519999999999,True,0.5503875968992248,0.005961251862891208
+3074,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.6522889999999999,True,0.5486495281483892,0.005734767025089606
+3180,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.6955449999999999,True,0.5508021390374331,0.005571030640668524
+3286,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.7401769999999999,True,0.5515981735159817,0.0054017555705604325
+3392,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.7861909999999999,True,0.5496903568268947,0.005211726384364821
+3498,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.8336079999999999,True,0.5513297111810123,0.005072923272035511
+3604,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.8823709999999999,True,0.5534276991396059,0.004947433518862091
+3710,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.9325419999999999,True,0.5521703963332435,0.004793289394847214
+3816,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,0.9840769999999999,True,0.5515072083879423,0.004653868528214078
+3922,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.036989,True,0.5524100994644223,0.004537719795802609
+4028,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.091338,True,0.5527688105289297,0.004422332780541736
+4134,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.147044,True,0.5528671667069925,0.004310344827586207
+4240,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.204111,True,0.5522528898325076,0.004197271773347324
+4346,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.262599,True,0.5525891829689298,0.004098360655737704
+4452,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.322455,True,0.5529094585486407,0.004004004004004004
+4558,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.3836659999999998,True,0.5508009655475093,0.00389294403892944
+4664,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.4462849999999998,True,0.5496461505468583,0.003795066413662239
+4770,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.5102849999999999,True,0.5504298595093311,0.003717472118959108
+4876,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.5756539999999999,True,0.5517948717948717,0.0036479708162334696
+4982,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.642445,True,0.5508933949006224,0.0035634743875278397
+5088,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.7106279999999998,True,0.5510123845095342,0.003490401396160559
+5194,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.7801699999999998,True,0.5513190833814751,0.0034217279726261765
+5300,Binary classification,CapyMoa Leveraging Bagging,Bananas,0.0015802383422851562,1.8511229999999999,True,0.5512360822796755,0.003352891869237217
+906,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.016889,True,0.5038674033149171,0.09657947686116701
+1812,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.049007,True,0.5935946990612921,0.061224489795918366
+2718,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.096308,True,0.5910931174089069,0.04141501294219154
+3624,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.158559,True,0.5914987579354126,0.031413612565445025
+4530,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.23569600000000002,True,0.6034444689776993,0.026030368763557486
+5436,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.32781000000000005,True,0.603311867525299,0.021778584392014518
+6342,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.43480700000000005,True,0.6002207853650844,0.018583042973286876
+7248,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.556948,True,0.5994204498413136,0.01626567265333785
+8154,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.693968,True,0.5829755918066969,0.013921113689095129
+9060,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,0.846017,True,0.5743459542995916,0.012295081967213115
+9966,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,1.0129890000000001,True,0.566783743100853,0.010996563573883162
+10872,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,1.195,True,0.5606659920890442,0.009950248756218905
+11778,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,1.3920160000000001,True,0.5600747219155982,0.009179575444635685
+12684,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,1.6039850000000002,True,0.5602775368603643,0.008533333333333334
+13590,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,1.8308760000000002,True,0.554934137905659,0.007874015748031496
+14496,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,2.073331,True,0.5525353570196619,0.0073461891643709825
+15402,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,2.330696,True,0.5544445165898318,0.00694645441389291
+16308,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,2.602977,True,0.5560188875942846,0.006586169045005488
+17214,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,2.89013,True,0.561958984488468,0.0063257775434897206
+18120,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,3.1921720000000002,True,0.5626138307853634,0.006020318575191271
+19026,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,3.5090770000000004,True,0.5666754270696452,0.0057887120115774245
+19932,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,3.8409040000000005,True,0.5626411118358337,0.005476326297775242
+20838,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,4.187665000000001,True,0.5615011757930605,0.0052259118127381595
+21744,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,4.549956000000001,True,0.5676769535022766,0.005080440304826419
+22650,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,4.927042000000001,True,0.5702238509426465,0.0049069719893682275
+23556,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,5.319102000000001,True,0.5708342177881554,0.004725804863640839
+24462,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,5.726038000000001,True,0.5736478475941295,0.004581464159587668
+25368,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,6.147927000000001,True,0.5729491071076596,0.0044113592500689275
+26274,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,6.584707000000001,True,0.5737449092223956,0.004267804747932782
+27180,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,7.036564000000001,True,0.5722800691710512,0.004112053456694937
+28086,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,7.503327000000001,True,0.5737938401281824,0.003994008986520219
+28992,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,7.985435000000002,True,0.5753164775275086,0.003883495145631068
+29898,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,8.482652000000002,True,0.5759775228283774,0.0037721021611001964
+30804,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,8.994839000000002,True,0.5778333279226049,0.003677597303095311
+31710,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,9.521941000000002,True,0.5775331924690151,0.0035703659625111574
+32616,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,10.064071000000002,True,0.5770044458071439,0.00346720600982375
+33522,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,10.621082000000001,True,0.5768324333999583,0.003372444319539099
+34428,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,11.19302,True,0.5765823336334853,0.003282051282051282
+35334,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,11.780068,True,0.578779045085331,0.003214788024914607
+36240,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,12.382301,True,0.5819972957311184,0.0031587259805211892
+37146,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,12.999785,True,0.5830663615560641,0.003089797232056646
+38052,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,13.63229,True,0.5848466531760006,0.003029346797096876
+38958,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,14.279788,True,0.584028544292425,0.002953300929059251
+39864,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,14.942246,True,0.5814665228407295,0.0028687544824288784
+40770,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,15.619604,True,0.57847874610611,0.0027853536818893986
+41676,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,16.3119,True,0.5759808038392321,0.0027089564873864214
+42582,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,17.019384000000002,True,0.5750452079566004,0.0026456484594609493
+43488,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,17.741944000000004,True,0.5747464759583324,0.002588857127447279
+44394,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,18.480048000000004,True,0.575698871443696,0.002541834357127727
+45300,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,19.233263000000004,True,0.5752665621757654,0.0024885939444214016
+45312,Binary classification,CapyMoa Leveraging Bagging,Elec2,0.001956939697265625,19.986840000000004,True,0.5753349076383218,0.002488335925349922
+25,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.001983,True,0.5,0.6666666666666666
+50,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.004557,True,0.5102040816326531,0.52
+75,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.007609,True,0.43243243243243246,0.38235294117647056
+100,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.011141,True,0.4444444444444444,0.32098765432098764
+125,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.015144999999999999,True,0.45161290322580644,0.3703703703703704
+150,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.019629999999999998,True,0.4563758389261745,0.37209302325581395
+175,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.024589,True,0.47701149425287354,0.3453237410071942
+200,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.030019999999999998,True,0.4824120603015075,0.31788079470198677
+225,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.035934,True,0.5044642857142857,0.3018867924528302
+250,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.04241,True,0.5020080321285141,0.2790697674418604
+275,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.049382,True,0.5145985401459854,0.26519337016574585
+300,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.056843000000000005,True,0.5284280936454849,0.25396825396825395
+325,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.06479800000000001,True,0.5401234567901234,0.24365482233502533
+350,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.073246,True,0.5501432664756447,0.23414634146341468
+375,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.082195,True,0.5561497326203209,0.22429906542056077
+400,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.091629,True,0.5614035087719298,0.21524663677130043
+425,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.101561,True,0.5731132075471698,0.2096069868995633
+450,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.111988,True,0.579064587973274,0.20253164556962025
+475,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.122911,True,0.5717299578059072,0.19123505976095617
+500,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.134363,True,0.5651302605210421,0.1811320754716981
+525,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.146324,True,0.5744274809160306,0.17712177121771217
+550,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.158786,True,0.5719489981785064,0.1696113074204947
+575,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.17175,True,0.5749128919860628,0.16438356164383558
+600,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.185209,True,0.5826377295492488,0.16107382550335572
+625,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.199166,True,0.592948717948718,0.15894039735099338
+650,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.213616,True,0.5870570107858244,0.15189873417721517
+675,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.228555,True,0.5786350148367952,0.14457831325301207
+700,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.243983,True,0.5836909871244635,0.1415929203539823
+725,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.259932,True,0.5759668508287292,0.1352112676056338
+750,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.276371,True,0.5740987983978638,0.13079019073569484
+775,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.29330599999999996,True,0.5749354005167958,0.12732095490716178
+800,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.31071699999999997,True,0.5694618272841051,0.12244897959183673
+825,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.32862699999999995,True,0.566747572815534,0.11851851851851851
+850,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.34702799999999995,True,0.568904593639576,0.11594202898550725
+875,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.36591799999999997,True,0.5709382151029748,0.11347517730496455
+900,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.38529599999999997,True,0.5728587319243604,0.1111111111111111
+925,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.40518499999999996,True,0.5692640692640693,0.10762331838565023
+950,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.42556799999999995,True,0.5637513171759747,0.1038961038961039
+975,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.44648499999999997,True,0.5646817248459959,0.1016949152542373
+1000,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.46790099999999996,True,0.5645645645645646,0.09937888198757765
+1025,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.48982299999999995,True,0.5615234375,0.09657947686116698
+1050,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.5122279999999999,True,0.559580552907531,0.09411764705882354
+1075,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.5351289999999999,True,0.5577281191806331,0.09177820267686425
+1100,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.5585149999999999,True,0.556869881710646,0.08971962616822429
+1125,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.5823909999999999,True,0.552491103202847,0.08711433756805809
+1150,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.6067649999999999,True,0.5535248041775457,0.0855614973262032
+1175,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.6316459999999999,True,0.5545144804088586,0.0840630472854641
+1200,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.6570349999999999,True,0.5562969140950792,0.08275862068965519
+1225,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.682923,True,0.5563725490196079,0.08121827411167512
+1250,Binary classification,CapyMoa Leveraging Bagging,Phishing,0.0020914077758789062,0.709356,True,0.55484387510008,0.07947019867549668
+1903,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.028045,True,1.0,0.0
+3806,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.082895,True,1.0,0.0
+5709,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.164937,True,1.0,0.0
+7612,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.274161,True,1.0,0.0
+9515,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.41049199999999997,True,1.0,0.0
+11418,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.573742,True,1.0,0.0
+13321,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016384124755859375,0.763827,True,1.0,0.0
+15224,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,0.98118,True,0.9992774091834724,0.0
+17127,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,1.22583,True,0.9992409202382343,0.0
+19030,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,1.497287,True,0.9993168322034789,0.0
+20933,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,1.7957640000000001,True,0.999378941333843,0.0
+22836,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,2.121308,True,0.9994306984891613,0.0
+24739,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,2.47432,True,0.9994744926833212,0.0
+26642,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,2.854368,True,0.9994744942006681,0.0
+28545,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,3.2613630000000002,True,0.9995095291479821,0.0
+30448,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,3.6951620000000003,True,0.9995401845830459,0.0
+32351,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,4.156204000000001,True,0.9995672333848532,0.0
+34254,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,4.644317000000001,True,0.9995912766764955,0.0
+36157,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,5.159261000000001,True,0.9996127890253347,0.0
+38060,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,5.701112000000001,True,0.9996321500827662,0.0
+39963,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,6.269991000000001,True,0.9996496671838246,0.0
+41866,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,6.866011000000001,True,0.9996655917831124,0.0
+43769,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,7.489125000000001,True,0.9996801316029976,0.0
+45672,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,8.139080000000002,True,0.9996934597446958,0.0
+47575,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,8.815988,True,0.9997057216126456,0.0
+49478,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,9.520203,True,0.99971704024092,0.0
+51381,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,10.251323000000001,True,0.9996885947839627,0.0
+53284,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,11.009453,True,0.9996997166075484,0.0
+55187,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,11.802847,True,0.999710071394919,0.0
+57090,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,12.647083,True,0.9995620872672494,0.0
+58993,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,13.536355,True,0.9995762137238947,0.0
+60896,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,14.472416,True,0.999589457262501,0.0
+62799,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,15.454180000000001,True,0.9995700500015924,0.0
+64702,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,16.480845000000002,True,0.9995826957852274,0.0
+66605,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,17.553028,True,0.9995946189418053,0.0
+68508,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,18.673101000000003,True,0.9995766855941729,0.0
+70411,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,19.841544000000003,True,0.9995881266865502,0.0
+72314,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,21.055657000000004,True,0.9995989656078437,0.0
+74217,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,22.314991000000003,True,0.99960924867953,0.0
+76120,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,23.619729000000003,True,0.9996190175908775,0.0
+78023,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,24.969765000000002,True,0.9996283099638563,0.0
+79926,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,26.365237000000004,True,0.9996371598373475,0.0
+81829,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,27.805862000000005,True,0.9996455980837855,0.0
+83732,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,29.291038000000004,True,0.9996536527689864,0.0
+85635,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,30.813866000000004,True,0.999661349463998,0.0
+87538,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,32.368571,True,0.9996687115162731,0.0
+89441,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,33.950426,True,0.9996645796064401,0.0
+91344,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,35.558123,True,0.999671567607808,0.0
+93247,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,37.192018000000004,True,0.9996782703815713,0.0
+95150,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,38.852771000000004,True,0.9996847050415664,0.0
+95156,Binary classification,CapyMoa Leveraging Bagging,SMTP,0.0016918182373046875,40.513760000000005,True,0.9996847249224948,0.0

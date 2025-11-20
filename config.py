@@ -25,6 +25,7 @@ from model_adapters.capymoa import CapyMoa2RiverClassifier, CapyMoa2RiverRegress
 import importlib.util
 
 
+
 VW_AVAILABLE = importlib.util.find_spec("vowpalwabbit") is not None
 if VW_AVAILABLE:
     from model_adapters.vw import VW2RiverClassifier

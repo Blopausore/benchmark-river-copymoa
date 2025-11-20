@@ -1,0 +1,1 @@
+{"track": "Regression", "model": "CapyMoa Shrubs Regressor", "dataset": "TrumpApproval", "error": "unsupported operand type(s) for +: 'float' and 'NoneType'"}

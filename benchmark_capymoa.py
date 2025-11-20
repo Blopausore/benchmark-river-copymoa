@@ -4,8 +4,8 @@ import os
 import json
 import pandas as pd
 import itertools
-import logging
 
+import logging
 
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
@@ -30,10 +30,24 @@ def run_capy_model(model_name, model, dataset, track_name, n_checkpoints, out_di
     step = 0
     cumulative_time = 0.0
 
-    # On utilise le track River directement
-    # → pas de multiprocessing ici, tout en séquentiel, sûr à 100%
+    # On utilise la boucle river.iter_progressive_val_score pour contrôler le modèle
+    from river import evaluate
+
+    metric = track_name.metric.clone()
+    total = getattr(dataset, "n_samples", 0) or n_checkpoints
+    step = max(1, total // n_checkpoints)
+
+    model_for_run = model.clone() if hasattr(model, "clone") else model
+
     try:
-        for state in track_name.run(model, dataset, n_checkpoints=n_checkpoints):
+        for state in evaluate.iter_progressive_val_score(
+            dataset=dataset,
+            model=model_for_run,
+            metric=metric,
+            step=step,
+            measure_time=True,
+            measure_memory=True,
+        ):
             cumulative_time += state["Time"].total_seconds()
 
             # Safe dict
@@ -44,7 +58,7 @@ def run_capy_model(model_name, model, dataset, track_name, n_checkpoints, out_di
                 "dataset": dataset.__class__.__name__,
                 "Memory in Mb": state["Memory"] / 1024**2,
                 "Time in s": cumulative_time,
-                "using_fallback": getattr(model, "using_fallback", False),
+                "using_fallback": getattr(model_for_run, "using_fallback", False),
             }
 
             # Extraire uniquement les métriques
@@ -57,9 +71,8 @@ def run_capy_model(model_name, model, dataset, track_name, n_checkpoints, out_di
                 f.write(json.dumps(res) + "\n")
     except Exception as exc:
         logger.error("Echec sur %s/%s: %s", dataset.__class__.__name__, model_name, exc)
-            # Write line
         with open(out_path, "a") as f:
-                f.write(json.dumps({
+            f.write(json.dumps({
                 "track": track_name.name,
                 "model": model_name,
                 "dataset": dataset.__class__.__name__,
@@ -86,8 +99,7 @@ def run_track_capy(track_name, track, models, n_checkpoints, out_dir):
 
         # Cloner le modèle CapyMoa wrapper, sinon l'état reste entre datasets
         model_instance = model.clone() if hasattr(model, "clone") else model.__class__()
-        
-        
+
         path = run_capy_model(
             model_name=model_name,
             model=model_instance,
@@ -99,6 +111,7 @@ def run_track_capy(track_name, track, models, n_checkpoints, out_dir):
         file_paths.append(path)
 
     return file_paths
+
 
 
 if __name__ == "__main__":
@@ -145,4 +158,4 @@ if __name__ == "__main__":
         csv_name = track_name.replace(" ", "_").lower() + "_capymoa.csv"
         df.to_csv(csv_name, index=False)
 
-        print(f"✔ Saved CSV: {csv_name}")
+        print(f"Saved CSV: {csv_name}")
